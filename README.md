@@ -1,18 +1,378 @@
-# 💫 About Me:
-I’m Mohammed Abdul Rahiman Hotgi, a Full Stack Developer, AI/ML enthusiast, UI/UX Designer, and technology-focused engineering student currently pursuing a Diploma in Artificial Intelligence & Machine Learning (Third Year) at Vidya Vikas Pratishthan Polytechnic, Solapur.<br><br>I believe in learning by building. Beyond my academic curriculum, I actively explore software development, artificial intelligence, machine learning, cloud computing, DevOps, cybersecurity, databases, and digital design. My goal is to become a well-rounded engineer capable of taking an idea from concept and architecture to development, deployment, and continuous improvement.<br><br>I work with Python, Java, C, C++, C#, JavaScript, and Flutter, and have hands-on experience developing full-stack web applications, SaaS platforms, REST-based systems, and cross-platform mobile applications. I have built and deployed 10+ end-to-end web and mobile applications, with projects spanning areas such as bakery, retail, healthcare, and industrial solutions. My development approach focuses on clean code, responsive interfaces, scalable architecture, database integration, usability, and reliable application performance.<br><br>As an AI/ML student, I am particularly interested in machine learning, artificial intelligence, data analysis, and the mathematical foundations behind intelligent systems. I also work with R Programming for statistical computing and data analysis, and I aim to combine AI with practical software engineering to create useful and scalable intelligent applications.<br><br>On the cloud and DevOps side, I am building practical experience with AWS, including S3 and AWS Transfer Family, along with Docker, Kubernetes, and Terraform. I’m interested in containerization, infrastructure automation, cloud deployment, scalability, and building reliable production environments.<br><br>I also work extensively with Linux and Kali Linux and have an interest in systems, networking, and cybersecurity. This helps me understand software beyond the application layer and develop a stronger foundation in deployment, system administration, and security.<br><br>Alongside engineering, I have a strong interest in UI/UX and creative technology. I design user interfaces, create logos and graphics, edit videos, and work with AutoCAD. I believe good engineering and good design should work together to create products that are both technically reliable and easy to use.<br><br>I have also worked with MySQL and MongoDB for database design and application development, as well as Microsoft Word, Excel, PowerPoint, and Tally Prime for documentation, data management, presentations, and business-oriented workflows.<br><br>One of my key projects is Hidayah Hub, an AI-powered Islamic learning platform that I have worked on as a founder-developer. Building products like this has helped me gain practical experience across product planning, UI/UX, development, backend systems, databases, deployment, and continuous improvement.<br><br>My long-term vision is to become an engineer who can architect, develop, secure, deploy, and scale complete software and AI solutions. I enjoy learning new technologies, solving real-world problems, and turning ideas into functional products.<br><br>I am currently open to internships, software development opportunities, full-stack roles, AI/ML opportunities, cloud and DevOps roles, freelance projects, and technology collaborations.<br><br>Location: Solapur, Maharashtra, India<br>Education: Diploma in Artificial Intelligence & Machine Learning, Vidya Vikas Pratishthan Polytechnic, Solapur<br>Status: Open to work, Remote, Hybrid, Job, internships, freelance projects, and collaborations<br>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohammed%20Abdul%20Rahiman%20Hotgi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdul.rahiman.hotgi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hotgicreativeofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahiman-hotgi-49b998325/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hotgicreative) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahimanhotgi14@gmail.com) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI-Powered+Products+%F0%9F%9A%80;Full+Stack+%2B+AI%2FML+%2B+Cloud+%2B+DevOps;Founder-Developer+of+Hidayah+Hub;Open+to+Software%2FFull+Stack%2FAI+Roles" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdulrahimanhotgi&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abdulrahimanhotgi&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahimanhotgi&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+![Diploma](https://img.shields.io/badge/Diploma-AI%20%26%20ML-8A2BE2?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/Location-Solapur%2C%20Maharashtra%2C%20India-6C63FF?style=for-the-badge&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-9370DB?style=for-the-badge&labelColor=0f0c29)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://hotgicreative.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahiman-hotgi-49b998325/)
+[![Instagram](https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hotgicreativeofficial)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hotgicreative@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hotgicreative)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hotgicreative&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/hotgicreative?style=for-the-badge&color=7c3aed&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/hotgicreative?style=for-the-badge&color=9370db&labelColor=0f0c29)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdulrahimanhotgi&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: "Mohammed Abdul Rahiman Hotgi"
+role: "Full Stack Developer · AI/ML Engineer · UI/UX Designer"
+education: "Diploma in AI & Machine Learning, Vidya Vikas Pratishthan Polytechnic, Solapur"
+focus: "Software Engineering + AI/ML + Cloud + DevOps + Product Design"
+philosophy: "Learn technology by building real, production-grade products"
+```
+
+I'm a technology-driven engineering student and founder-developer who believes the best way to master engineering is by shipping real products end-to-end — from requirements and architecture to deployment and iteration. I've built and deployed **10+ end-to-end web and mobile applications** across bakery, retail, healthcare, and industrial domains, combining full-stack engineering with AI/ML, cloud infrastructure, and product design.
+
+My core engineering interest lies at the intersection of **Software Engineering, Artificial Intelligence, Cloud Computing, DevOps, Cybersecurity, and Product Design** — understanding not just how to write code, but how systems connect: interface → API → database → AI model → containerized deployment → automated, monitored, and secured infrastructure.
+
+```text
+🎯 Open To:
+   → Software Developer / Full Stack Developer roles
+   → Backend & Application Development roles
+   → AI/ML Internships & Entry-Level Opportunities
+   → Cloud & DevOps Opportunities
+   → Freelance Development Projects
+   → SaaS & Product Development Collaborations
+   → Technology-Focused Startup Opportunities
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c) ![C#](https://skillicons.dev/icons?i=cs) ![C++](https://skillicons.dev/icons?i=cpp) ![CSS3](https://skillicons.dev/icons?i=css) ![Dart](https://skillicons.dev/icons?i=dart) ![HTML5](https://skillicons.dev/icons?i=html) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![Go](https://skillicons.dev/icons?i=go) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![PHP](https://skillicons.dev/icons?i=php) ![R](https://skillicons.dev/icons?i=r) ![Python](https://skillicons.dev/icons?i=python) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Rust](https://skillicons.dev/icons?i=rust) ![Swift](https://skillicons.dev/icons?i=swift) ![Bash](https://skillicons.dev/icons?i=bash)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Angular](https://skillicons.dev/icons?i=angular) ![Flutter](https://skillicons.dev/icons?i=flutter) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) ![Three.js](https://skillicons.dev/icons?i=threejs) ![WebGL](https://skillicons.dev/icons?i=webgl) ![Chart.js](https://skillicons.dev/icons?i=chartjs)
+
+**Backend & Databases**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Spring](https://skillicons.dev/icons?i=spring) ![GraphQL](https://skillicons.dev/icons?i=graphql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis)
+
+**Cloud, DevOps & Tooling**
+
+![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Kali](https://skillicons.dev/icons?i=kali) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Figma](https://skillicons.dev/icons?i=figma) ![AutoCAD](https://skillicons.dev/icons?i=autocad)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Data Preparation & Feature Engineering | ⭐⭐⭐⭐ | Statistical analysis, cleaning, and feature design for ML pipelines |
+| Model Development & Evaluation | ⭐⭐⭐⭐ | Supervised/unsupervised learning workflows, evaluation metrics |
+| Statistical Computing (R) | ⭐⭐⭐ | Data-driven analysis and problem solving with R |
+| AI-Driven Application Engines | ⭐⭐⭐⭐ | Personalization engines integrated into full-stack products |
+| Deployment of ML-Powered Features | ⭐⭐⭐ | Shipping AI capabilities inside production applications |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🕌 Hidayah Hub — AI-Powered Islamic Learning Platform (Web & App)</b></summary>
+
+Founder-developer of an AI-driven Islamic learning platform delivering personalized Quran, Hadith, and Islamic-studies guidance, with structured lesson tracking and progress scheduling across web and mobile.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java · MySQL · MongoDB · AI Engine · Responsive Frontend |
+| Scale | Full-stack, web + mobile |
+| Performance | Structured lesson tracking & progress scheduling |
+| Security | Authentication & application-layer access control |
+| Impact | Personalized learning experience for Islamic studies |
+| Repository | `Private / In Development` |
+
+</details>
+
+<details>
+<summary><b>✅ DoQuick — Productivity App</b></summary>
+
+Task and productivity tracker with a clean, responsive UI for fast daily workflow management.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Responsive Frontend · REST Architecture |
+| Scale | Personal productivity, daily-use application |
+| Performance | Fast task creation and tracking workflow |
+| Security | Standard authentication and data handling |
+| Impact | Streamlined daily task management |
+| Repository | `Available on Request` |
+
+</details>
+
+<details>
+<summary><b>📈 Skillscript — Learning Tracker</b></summary>
+
+Platform for logging skills, setting goals, and monitoring completion over time.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Full Stack Web Application |
+| Scale | Individual skill & goal tracking |
+| Performance | Progress monitoring over time |
+| Security | User-scoped data storage |
+| Impact | Structured, goal-driven skill development |
+| Repository | `Available on Request` |
+
+</details>
+
+<details>
+<summary><b>🩺 Healing AI — Healthcare Prototype</b></summary>
+
+Healthcare prototype exploring AI-assisted guidance within a full-stack architecture.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Full Stack + AI-Assisted Logic |
+| Scale | Prototype / proof-of-concept |
+| Performance | AI-assisted guidance workflow |
+| Security | Healthcare-context data handling |
+| Impact | Early-stage exploration of AI in healthcare |
+| Repository | `Available on Request` |
+
+</details>
+
+<details>
+<summary><b>🚆 Railsync — Rail Information Web App</b></summary>
+
+Rail information web app delivering real-time-style schedule and status data via a structured backend.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Structured Backend · Web Frontend |
+| Scale | Real-time-style data delivery |
+| Performance | Schedule & status updates |
+| Security | Standard REST-based access |
+| Impact | Practical real-time information system |
+| Repository | `Available on Request` |
+
+</details>
+
+<details>
+<summary><b>🏢 Pushpak Elevators & InfoStack Demo — Marketing/Product Showcase Sites</b></summary>
+
+Responsive marketing/product showcase sites built and deployed for brand visibility and lead generation.
+
+| Aspect | Detail |
+|---|---|
+| Stack | HTML/CSS/JS · Responsive Design |
+| Scale | Business marketing sites |
+| Performance | Optimized for lead generation |
+| Security | Standard deployment practices |
+| Impact | Increased brand visibility for clients |
+| Repository | `Available on Request` |
+
+</details>
+
+<details>
+<summary><b>🍰 Client Business Websites (8+) — Freelance</b></summary>
+
+Designed, developed, and deployed responsive sites end-to-end for National Bakery, ZM Cake Walk, Mehboob Printing & Xerox, JCB Solapur Enterprises, Yusha & Aisha Collection, Health Homeopathic Clinic, Shazim Collection, and Enternaluxury — owning requirements, UI/UX design, development, and deployment.
+
+| Aspect | Detail |
+|---|---|
+| Stack | HTML/CSS/JS · Netlify · Firebase |
+| Scale | 8+ independent client deployments |
+| Performance | Responsive, production-ready delivery |
+| Security | Client-appropriate deployment configuration |
+| Impact | End-to-end ownership from requirements to launch |
+| Repository | `Multiple / Available on Request` |
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Full Stack Development Trainee (Java) — InfoStack Software Dev. Training & Research Center
+`2023 – 2025`
+
+Completed intensive full-stack development training covering front-end UI implementation and back-end server logic using Core and Advanced Java.
+
+- Built and deployed multiple full-stack projects (part of 10+ delivered end-to-end), applying relational database design, REST-style server logic, and responsive UI development
+- Practiced industry-standard workflows including Git-based version control, code review, debugging, and iterative testing
+- Collaborated with peers under Agile/Scrum fundamentals to plan, build, and deliver working software increments
+
+`Java` `MySQL` `REST APIs` `Git` `Agile/Scrum`
+
+### Computer Fundamentals & Technical Support Assistant — Disha Computer, Solapur
+`2021 – 2023`
+
+Delivered technical documentation, data management, and presentation support while strengthening core programming and technical design skills.
+
+- Delivered technical documentation, data management, and presentation support for clients using MS Word, Excel, and PowerPoint
+- Applied C and C++ programming fundamentals on real support tasks to strengthen logic-building and problem-solving skills
+- Produced accurate technical drawings using AutoCAD 2D/3D to support client design and engineering requests
+
+`C` `C++` `AutoCAD` `MS Office`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Founder-Developer | Hidayah Hub — AI-Powered Islamic Learning Platform |
+| 10+ Deployments | End-to-end web & mobile applications across multiple sectors |
+| Freelance Delivery | 8+ client business websites designed, built, and deployed end-to-end |
+| Professional Certificates | Google, IBM & Meta Professional Certificates via Coursera |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-AWS%20Skill%20Builder-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Training Institute**
+![Full Stack Development & Java](https://img.shields.io/badge/Full%20Stack%20Development%20%26%20Java-InfoStack%20Institute-7C3AED?style=flat-square)
+
+**Coursera**
+![Google](https://img.shields.io/badge/Google-Professional%20Certificate-9370DB?style=flat-square&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Professional%20Certificate-6C5CE7?style=flat-square&logo=ibm&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-Professional%20Certificate-4C1D95?style=flat-square&logo=meta&logoColor=white)
+
+**Additional Coursework**
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0f0c29?style=flat-square&logo=freecodecamp&logoColor=8A2BE2)
+![Codecademy](https://img.shields.io/badge/Codecademy-0f0c29?style=flat-square&logo=codecademy&logoColor=8A2BE2)
+![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=flat-square&logo=hackerrank&logoColor=8A2BE2)
+![Scaler](https://img.shields.io/badge/Scaler-0f0c29?style=flat-square&logoColor=8A2BE2)
+![Kaggle Learn](https://img.shields.io/badge/Kaggle%20Learn-0f0c29?style=flat-square&logo=kaggle&logoColor=8A2BE2)
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6C5CE7?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hotgicreative&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=9370DB&text_color=c9c9c9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotgicreative&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=9370DB&fire=8A2BE2&currStreakLabel=A78BFA" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotgicreative&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" width="49%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hotgicreative&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hotgicreative&theme=react-dark&bg_color=0f0c29&color=A78BFA&line=9370DB&point=ffffff&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/hotgicreative/hotgicreative/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🔭 Current Focus
+
+```yaml
+Learning:
+  - Advanced Machine Learning & Deep Learning foundations
+  - Cloud-native architecture with AWS, Docker & Kubernetes
+  - Infrastructure automation with Terraform
+
+Building:
+  - Hidayah Hub — AI-Powered Islamic Learning Platform
+  - Production-grade full-stack SaaS applications
+
+Exploring:
+  - Cybersecurity & secure development practices with Kali Linux
+  - MLOps and AI model deployment pipelines
+  - Product-led engineering and UI/UX systems design
+
+Open To:
+  - Software Developer / Full Stack Developer roles
+  - AI/ML Internships
+  - Cloud & DevOps opportunities
+  - Freelance & Startup collaborations
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hotgicreative@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahiman-hotgi-49b998325/)
+[![GitHub](https://img.shields.io/badge/GitHub-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hotgicreative)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://hotgicreative.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build real products, understand real systems, and turn ideas into working technology."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
+
+</div>
