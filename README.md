@@ -36,6 +36,19 @@
 ![Followers](https://img.shields.io/github/followers/hotgicreative?style=for-the-badge&color=7c3aed&labelColor=0f0c29)
 ![Stars](https://img.shields.io/github/stars/hotgicreative?style=for-the-badge&color=9370db&labelColor=0f0c29)
 
+<br>
+
+```
+> whoami
+mohammed abdul rahiman md asgar hotgi
+
+> status
+[ONLINE] building • shipping • learning — every single day
+
+> current_mission
+Founder-Developer @ Hidayah Hub — turning ideas into working technology
+```
+
 </div>
 
 ---
@@ -140,6 +153,29 @@ Beyond pure engineering, I work as a **multi-disciplinary creator** — Software
 | Statistical Computing (R) | ⭐⭐⭐ | Data-driven analysis and problem solving with R |
 | AI-Driven Application Engines | ⭐⭐⭐⭐ | Personalization engines integrated into full-stack products |
 | Deployment of ML-Powered Features | ⭐⭐⭐ | Shipping AI capabilities inside production applications |
+
+</div>
+
+---
+
+## 🧭 How I Work
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💡 Understand<br>the Problem] --> B[🎨 Design<br>the Experience]
+    B --> C[⚙️ Engineer<br>the System]
+    C --> D[🚀 Ship<br>the Product]
+    D --> E[🔁 Iterate &<br>Improve]
+    E --> A
+
+    style A fill:#4C1D95,stroke:#A78BFA,stroke-width:2px,color:#fff
+    style B fill:#6C5CE7,stroke:#A78BFA,stroke-width:2px,color:#fff
+    style C fill:#7C3AED,stroke:#A78BFA,stroke-width:2px,color:#fff
+    style D fill:#8A2BE2,stroke:#A78BFA,stroke-width:2px,color:#fff
+    style E fill:#9333EA,stroke:#A78BFA,stroke-width:2px,color:#fff
+```
 
 </div>
 
@@ -337,21 +373,6 @@ Delivered technical documentation, data management, and presentation support whi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hotgicreative&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hotgicreative&theme=radical&hide_border=true&background=0f0c29&stroke=8A2BE2&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotgicreative&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hotgicreative&theme=redental&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8A2BE2&point=9333EA" width="90%"/>
-
-</div>
-
----
-
 ## 🗣️ Languages I Speak
 
 <div align="center">
@@ -477,6 +498,10 @@ Open To:
 | 📸 Instagram | [@hotgicreativeofficial](https://www.instagram.com/hotgicreativeofficial) |
 
 *Feel free to reach out on WhatsApp or call directly for job offers, freelance projects, collaborations, or just to talk tech!*
+
+<br>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
