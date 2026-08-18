@@ -310,23 +310,45 @@ Delivered technical documentation, data management, and presentation support whi
 
 ## 📜 Certifications
 
-**AWS**
-![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-AWS%20Skill%20Builder-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white)
+<div align="center">
 
-**Training Institute**
-![Full Stack Development & Java](https://img.shields.io/badge/Full%20Stack%20Development%20%26%20Java-InfoStack%20Institute-7C3AED?style=flat-square)
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-**Coursera**
-![Google](https://img.shields.io/badge/Google-Professional%20Certificate-9370DB?style=flat-square&logo=google&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Professional%20Certificate-6C5CE7?style=flat-square&logo=ibm&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-Professional%20Certificate-4C1D95?style=flat-square&logo=meta&logoColor=white)
+| Platform | Certificate |
+|---|---|
+| ![AWS](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=amazonaws&logoColor=white) **AWS Skill Builder** | AWS Cloud Practitioner Essentials |
+| ![Google](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=google&logoColor=white) **Google (Coursera)** | Google Professional Certificate |
+| ![IBM](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=ibm&logoColor=white) **IBM (Coursera)** | IBM Professional Certificate |
+| ![Meta](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=meta&logoColor=white) **Meta (Coursera)** | Meta Professional Certificate |
+| 🏫 **InfoStack Institute** | Full Stack Development & Java |
 
-**Additional Coursework**
+</div>
+
+**Additional Coursework & Practice Platforms**
+
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0f0c29?style=flat-square&logo=freecodecamp&logoColor=8A2BE2)
 ![Codecademy](https://img.shields.io/badge/Codecademy-0f0c29?style=flat-square&logo=codecademy&logoColor=8A2BE2)
 ![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=flat-square&logo=hackerrank&logoColor=8A2BE2)
 ![Scaler](https://img.shields.io/badge/Scaler-0f0c29?style=flat-square&logoColor=8A2BE2)
 ![Kaggle Learn](https://img.shields.io/badge/Kaggle%20Learn-0f0c29?style=flat-square&logo=kaggle&logoColor=8A2BE2)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0f0c29?style=flat-square&logo=linkedin&logoColor=8A2BE2)
+
+> 💡 *Tip: keep this section 100% accurate — recruiters commonly click through and check credential links directly on the issuing platform.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hotgicreative&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hotgicreative&theme=radical&hide_border=true&background=0f0c29&stroke=8A2BE2&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotgicreative&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hotgicreative&theme=redental&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8A2BE2&point=9333EA" width="90%"/>
+
+</div>
 
 ---
 
@@ -463,6 +485,8 @@ Open To:
 <div align="center">
 
 *"Build real products, understand real systems, and turn ideas into working technology."*
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
 
