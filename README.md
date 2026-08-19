@@ -2,7 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohammed%20Abdul%20Rahiman%20Hotgi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI-Powered+Products+%F0%9F%9A%80;Full+Stack+%2B+AI%2FML+%2B+Cloud+%2B+DevOps;Founder-Developer+of+Hidayah+Hub;Open+to+Software%2FFull+Stack%2FAI+Roles" alt="Typing SVG" /></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 
 <br>
 
@@ -130,13 +135,30 @@ Beyond pure engineering, I work as a **multi-disciplinary creator** — Software
 
 ![Linux](https://img.shields.io/badge/Linux-7C3AED?style=flat-square&logo=linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-7C3AED?style=flat-square&logo=kalilinux&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-7C3AED?style=flat-square&logo=autodesk&logoColor=white) ![Tally Prime](https://img.shields.io/badge/Tally%20Prime-7C3AED?style=flat-square) ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-7C3AED?style=flat-square&logo=microsoftword&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-7C3AED?style=flat-square&logo=microsoftpowerpoint&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&logo=powerbi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-7C3AED?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7C3AED?style=flat-square&logo=intellijidea&logoColor=white)
 
-**🎮 Gaming & Game Development**
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-6C5CE7?style=flat-square&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/Riot%20Games-6C5CE7?style=flat-square&logo=riotgames&logoColor=white) ![PSN](https://img.shields.io/badge/PSN-6C5CE7?style=flat-square&logo=playstation&logoColor=white) ![Battle.net](https://img.shields.io/badge/Battle%2Enet-6C5CE7?style=flat-square&logo=battledotnet&logoColor=white) ![Epic Games](https://img.shields.io/badge/Epic%20Games-6C5CE7?style=flat-square&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-6C5CE7?style=flat-square&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-6C5CE7?style=flat-square&logo=opengl&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-6C5CE7?style=flat-square&logo=ubisoft&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-6C5CE7?style=flat-square&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/Xbox-6C5CE7?style=flat-square&logo=xbox&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-6C5CE7?style=flat-square&logo=ffmpeg&logoColor=white) ![Valorant](https://img.shields.io/badge/Valorant-6C5CE7?style=flat-square&logo=valorant&logoColor=white)
-
 **🔌 Other Technologies & Platforms**
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-8A2BE2?style=flat-square&logo=meta&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-8A2BE2?style=flat-square&logo=uber&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-8A2BE2?style=flat-square&logo=twilio&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-8A2BE2?style=flat-square&logo=ubiquiti&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node-RED-8A2BE2?style=flat-square&logo=nodered&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hotgicreative&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotgicreative&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=8A2BE2&fire=9333EA&currStreakLabel=A78BFA" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotgicreative&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9&langs_count=10" height="165"/>
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hotgicreative&theme=react-dark&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8A2BE2&point=9333EA)
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hotgicreative&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -186,6 +208,8 @@ graph LR
 <div align="center">
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+*Click each card below to expand full stack, scale, and impact details* 👇
 
 </div>
 
@@ -464,6 +488,35 @@ Open To:
     - Anywhere in Maharashtra, India
     - Remote — Anywhere in the World
 ```
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+```text
+🌙 I build most of my personal projects late at night — best ideas hit after midnight
+📚 Learned my first line of code from YouTube — now I ship full products end-to-end
+🕌 Hidayah Hub started as a personal need — now it's my biggest build
+☕ Debugging fuel: chai, not coffee
+🧩 I enjoy UI/UX almost as much as backend architecture — a rare full-stack + design combo
+```
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+If you found my work interesting or useful, consider supporting or connecting — it genuinely motivates me to keep building and open-sourcing more!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hotgicreative)
+[![Star this Profile](https://img.shields.io/badge/⭐%20Star%20My%20Repos-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hotgicreative)
+
+</div>
 
 ---
 
