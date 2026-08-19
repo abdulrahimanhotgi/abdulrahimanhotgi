@@ -135,30 +135,33 @@ Beyond pure engineering, I work as a **multi-disciplinary creator** — Software
 
 ![Linux](https://img.shields.io/badge/Linux-7C3AED?style=flat-square&logo=linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-7C3AED?style=flat-square&logo=kalilinux&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-7C3AED?style=flat-square&logo=autodesk&logoColor=white) ![Tally Prime](https://img.shields.io/badge/Tally%20Prime-7C3AED?style=flat-square) ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-7C3AED?style=flat-square&logo=microsoftword&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-7C3AED?style=flat-square&logo=microsoftpowerpoint&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&logo=powerbi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-7C3AED?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7C3AED?style=flat-square&logo=intellijidea&logoColor=white)
 
+**📱 Mobile & Cross-Platform Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-6C5CE7?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-6C5CE7?style=flat-square&logo=react&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-6C5CE7?style=flat-square&logo=androidstudio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-6C5CE7?style=flat-square&logo=kotlin&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-6C5CE7?style=flat-square&logo=xcode&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-6C5CE7?style=flat-square&logo=expo&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-6C5CE7?style=flat-square&logo=pwa&logoColor=white)
+
+**🎬 Animation, Motion & Interactive Web**
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-9333EA?style=flat-square&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-9333EA?style=flat-square&logo=greensock&logoColor=white) ![Lottie](https://img.shields.io/badge/Lottie-9333EA?style=flat-square&logo=lottiefiles&logoColor=white) ![AOS](https://img.shields.io/badge/AOS%20(Animate%20On%20Scroll)-9333EA?style=flat-square) ![CSS Animations](https://img.shields.io/badge/CSS%20Animations-9333EA?style=flat-square&logo=css3&logoColor=white) ![Three.js](https://img.shields.io/badge/Three%2Ejs-9333EA?style=flat-square&logo=threedotjs&logoColor=white) ![Anime.js](https://img.shields.io/badge/Anime%2Ejs-9333EA?style=flat-square)
+
+**🧪 Testing, QA & API Tools**
+
+![Postman](https://img.shields.io/badge/Postman-5B21B6?style=flat-square&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-5B21B6?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-5B21B6?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-5B21B6?style=flat-square&logo=selenium&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-5B21B6?style=flat-square&logo=swagger&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5B21B6?style=flat-square&logo=insomnia&logoColor=white)
+
+**🧠 No-Code / Low-Code & Automation**
+
+![Zapier](https://img.shields.io/badge/Zapier-8B5CF6?style=flat-square&logo=zapier&logoColor=white) ![Make (Integromat)](https://img.shields.io/badge/Make-8B5CF6?style=flat-square&logo=make&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-8B5CF6?style=flat-square&logo=webflow&logoColor=white) ![Bubble](https://img.shields.io/badge/Bubble-8B5CF6?style=flat-square&logo=bubble&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-8B5CF6?style=flat-square&logo=n8n&logoColor=white)
+
+**🧰 IDEs, Editors & Productivity Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-A78BFA?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-A78BFA?style=flat-square&logo=intellijidea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-A78BFA?style=flat-square&logo=pycharm&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-A78BFA?style=flat-square&logo=eclipseide&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-A78BFA?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-A78BFA?style=flat-square&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-A78BFA?style=flat-square&logo=trello&logoColor=white)
+
 **🔌 Other Technologies & Platforms**
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-8A2BE2?style=flat-square&logo=meta&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-8A2BE2?style=flat-square&logo=uber&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-8A2BE2?style=flat-square&logo=twilio&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-8A2BE2?style=flat-square&logo=ubiquiti&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node-RED-8A2BE2?style=flat-square&logo=nodered&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hotgicreative&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotgicreative&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=8A2BE2&fire=9333EA&currStreakLabel=A78BFA" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotgicreative&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9&langs_count=10" height="165"/>
-
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hotgicreative&theme=react-dark&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8A2BE2&point=9333EA)
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hotgicreative&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,flask,java,php,laravel,mysql,mongodb,firebase,aws,docker,kubernetes,git,github,figma,tailwind,flutter,linux&theme=dark" />
 
 </div>
 
@@ -198,6 +201,23 @@ graph LR
     style D fill:#8A2BE2,stroke:#A78BFA,stroke-width:2px,color:#fff
     style E fill:#9333EA,stroke:#A78BFA,stroke-width:2px,color:#fff
 ```
+
+</div>
+
+---
+
+## 🎥 Project Showcase & Demos
+
+<div align="center">
+
+*A quick visual walkthrough of what I build — from concept to deployed product*
+
+| 🕌 Hidayah Hub | 🍰 Client Websites | ⚙️ How I Ship |
+|:---:|:---:|:---:|
+| <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="220"> | <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="220"> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="220"> |
+| AI-powered Islamic learning platform | 8+ responsive business sites shipped | Idea → Design → Code → Deploy → Iterate |
+
+📌 *Full demo videos, walkthroughs & case studies are available on my [Portfolio](https://hotgicreative.netlify.app/) and can be shared directly on request.*
 
 </div>
 
